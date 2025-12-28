@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "撥条少女時計",
+  "base_artist": "Drop & 葉月ゆら",
+  "createdAt": "2025-12-28T02:55:18.863884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "撥条少女時計",
+      "artist": "Drop & 葉月ゆら",
+      "has_synced": true,
+      "path": "select/01_撥条少女時計_Drop_&_葉月ゆら.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "撥条少女時計",
+      "artist": "Drop&葉月ゆら",
+      "has_synced": false,
+      "path": "select/pl_01_撥条少女時計_Drop&葉月ゆら.txt"
+    }
+  ]
+}
